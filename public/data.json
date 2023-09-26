@@ -1,0 +1,75 @@
+[
+     {
+       "id": 1,
+       "course": "Introduction to C Programming",
+       "image": "https://i.ibb.co/1RkbQ8p/Rectangle-2-2.png",
+       "price": 15000,
+       "credit": 1,
+       "description": "Foundational C programming, known for efficiency and versatility, forming the basis for software development."
+     },
+     {
+       "id": 2,
+       "course": "Introduction to Algorithms",
+       "image": "https://i.ibb.co/j8P3hPd/Rectangle-2-3.png",
+       "price": 25000,
+       "credit": 2,
+       "description": "Essential for software development, understanding step-by-step problem-solving procedures in computer science."
+     },
+     {
+       "id": 3,
+       "course": "Introduction to C++ for DSA",
+       "image": "https://i.ibb.co/KDs8M63/Rectangle-2-4.png",
+       "price": 10000,
+       "credit": 10,
+       "description": "C++ for Data Structures and Algorithms, powerful features for complex problem-solving."
+     },
+     {
+       "id": 4,
+       "course": "Basic Data Structures",
+       "image": "https://i.ibb.co/NVMTgTV/Rectangle-3.png",
+       "price": 35000,
+       "credit": 5,
+       "description": "Fundamental data structures - arrays, linked lists, stacks, and queues, essential for efficient data management."
+     },
+     {
+       "id": 5,
+       "course": "Introduction to OOP Python",
+       "image": "https://i.ibb.co/V9CfqWh/Rectangle-2.png",
+       "price": 19000,
+       "credit": 5,
+       "description": "Python OOP - classes, objects, inheritance, enhancing code organization and reusability."
+     },
+     {
+       "id": 6,
+       "course": "Software Engineering",
+       "image": "https://i.ibb.co/crJ15RX/Rectangle-2-5.png",
+       "price": 23000,
+       "credit": 2,
+       "description": "Systematic software development emphasizing quality, scalability, and maintainability."
+     },
+     {
+       "id": 7,
+       "course": "AWS, Cloud Computing",
+       "image": "https://i.ibb.co/KGR17Fm/Rectangle-3-1.png",
+       "price": 35000,
+       "credit": 5,
+       "description": "Amazon Web Services for scalable, reliable cloud services, efficient application deployment, and data management."
+     },
+     {
+       "id": 8,
+       "course": "Database (MySQL)",
+       "image": "https://i.ibb.co/G9Hr7w0/Rectangle-2-1.png",
+       "price": 19000,
+       "credit": 5,
+       "description": "MySQL - open-source, relational DBMS known for scalability, performance, and robust data security."
+     },
+     {
+       "id": 9,
+       "course": "Problem-Solving Part",
+       "image": "https://i.ibb.co/XtTBrFX/Rectangle-2-6.png",
+       "price": 23000,
+       "credit": 2,
+       "description": "Critical problem-solving skills applicable in programming and life, overcoming obstacles and achieving goals."
+     }
+   ]
+   
